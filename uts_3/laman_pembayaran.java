@@ -17,9 +17,7 @@ public class laman_pembayaran extends javax.swing.JFrame {
     public laman_pembayaran(String dataPesanan) {
         initComponents();
         setLocationRelativeTo(null); // posisi ke tengah layar
-        
 
-        setLocationRelativeTo(null);
 
         struk.setEditable(false);
         struk.setText(dataPesanan);
